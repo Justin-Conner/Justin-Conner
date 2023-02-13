@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![image](https://user-images.githubusercontent.com/122805784/218510316-b9583deb-c6de-4ff2-9b3a-87eb0ecef16f.png)
+
 ![](https://komarev.com/ghpvc/?username=Justin-Conner )
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
