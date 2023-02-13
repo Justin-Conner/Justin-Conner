@@ -1,8 +1,5 @@
 ### "Only one'll read the chapter after larva, it's a good one" ![image](https://user-images.githubusercontent.com/122805784/218510316-b9583deb-c6de-4ff2-9b3a-87eb0ecef16f.png) ![image](https://user-images.githubusercontent.com/122805784/218510476-b5354eff-d116-48b0-bc33-6f90472d43e7.png)
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//www.linkedin.com/in/justin-conner-816337224"
+[www.linkedin.com/in/justin-conner-816337224]
 <!--
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
@@ -20,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Aesop Rock. I won't shut up about it. Sorry not Sorry.
 - 📫 How to reach me: justinconnerportfolio.com has all my links.
 - 😄 Pronouns: ...
-- ⚡ Fun facts: https://drive.google.com/file/d/1-QsGtcfW0xEQgbXLZyRvL28q1nLPo816/view?usp=share_link
+- ⚡ Fun facts: [https://drive.google.com/file/d/1-QsGtcfW0xEQgbXLZyRvL28q1nLPo816/view?usp=share_link]
                https://drive.google.com/file/d/1lqvKfzPFUr9TOJXsbkr9tcdddfDBFxtY/view?usp=share_link
                https://drive.google.com/file/d/1bkSCTMVudhs_jWIh9Vd1oOT9N59bz6uJ/view?usp=share_link
                https://drive.google.com/file/d/14C7ztWOXHf23455GwgvD-8hTqvZNd9cL/view?usp=sharing
