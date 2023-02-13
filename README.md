@@ -2,7 +2,7 @@
  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//www.linkedin.com/in/justin-conner-816337224/"
+    link = "//www.linkedin.com/in/justin-conner-816337224"
 <!--
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
