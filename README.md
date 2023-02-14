@@ -1,6 +1,7 @@
 ### "Only one'll read the chapter after larva, it's a good one" ![image](https://user-images.githubusercontent.com/122805784/218510316-b9583deb-c6de-4ff2-9b3a-87eb0ecef16f.png) ![image](https://user-images.githubusercontent.com/122805784/218510476-b5354eff-d116-48b0-bc33-6f90472d43e7.png)
-![]www.justinconnerportfolio.com
-![]www.apachesandbox.com
+www.justinconnerportfolio.com
+
+www.apachesandbox.com
 
 <!--
 
