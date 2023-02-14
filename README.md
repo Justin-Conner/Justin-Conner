@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with my website on an apache server. See below for what I have done so far. 
 - 💬 Ask me about Aesop Rock. I won't shut up about it. Sorry not Sorry.
 - 📫 How to reach me: justinconnerportfolio.com has all my links. www.Apacheserver.com
+
 **** Fun facts:****
+
 - [Facto Numero 1](https://drive.google.com/file/d/1-QsGtcfW0xEQgbXLZyRvL28q1nLPo816/view?usp=share_link)
   
 - [Facto Numero 2](https://drive.google.com/file/d/1lqvKfzPFUr9TOJXsbkr9tcdddfDBFxtY/view?usp=share_link)
