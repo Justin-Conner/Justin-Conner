@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on hosting my website on an apache server
 - 🌱 I’m currently learning about the DOM @launchcode
 - 👯 I’m looking to collaborate on anything I am able to I am a relatively new programmer but very curious.
-- 🤔 I’m looking for help with my website on an apache server. See below for what I have done so far. 
+- 🤔 I’m looking for help with my website on an apache server. See "apachesandbox" link above for what I have done so far. 
 - 💬 Ask me about Aesop Rock. I won't shut up about it. Sorry not Sorry.
 - 📫 How to reach me: justinconnerportfolio.com has all my links. www.Apacheserver.com
 
-**** Fun facts:****
+  **** Fun facts:****
 
 - [Facto Numero 1](https://drive.google.com/file/d/1-QsGtcfW0xEQgbXLZyRvL28q1nLPo816/view?usp=share_link)
   
