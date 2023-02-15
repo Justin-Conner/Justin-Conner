@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on hosting my website on an apache server
 - 🌱 I’m currently learning about the DOM @launchcode
 - 👯 I’m looking to collaborate on anything I am able to I am a relatively new programmer but very curious.
-- 🤔 I’m looking for help with my website on an apache server. See "apachesandbox" link above for what I have done so far. 
+- 🤔 I’m looking for help with my website on an apache server. See "apachesandbox" link below for what I have done so far. 
 - 💬 Ask me about Aesop Rock. I won't shut up about it. Sorry not Sorry.
-- 📫 How to reach me: justinconnerportfolio.com has all my links. www.Apacheserver.com
+- 📫 How to reach me: www.justinconnerportfolio.com has all my links. www.Apacheserver.com
 
   **** Fun facts:****
 
