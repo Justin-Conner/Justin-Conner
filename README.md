@@ -2,7 +2,7 @@
 www.justinconnerportfolio.com
 
 
-![](https://komarev.com/ghpvc/?username=https://github.com/Justin-Conner&style=flat-square)  
+<!--![](https://komarev.com/ghpvc/?username=https://github.com/Justin-Conner&style=flat-square)  -->
 
 
 ![](https://komarev.com/ghpvc/?username=Justin-Conner&style=flat-square&label=PROFILE+PEEPERS )
