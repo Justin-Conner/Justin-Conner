@@ -3,10 +3,10 @@ www.justinconnerportfolio.com
 
 www.apachesandbox.com
 
-<!--
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)  -->
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)  
 
 
 ![](https://komarev.com/ghpvc/?username=Justin-Conner&style=flat-square&label=PROFILE+PEEPERS )
