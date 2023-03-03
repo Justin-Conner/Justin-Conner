@@ -6,14 +6,12 @@ www.apachesandbox.com
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)  
+![](https://komarev.com/ghpvc/?username=https://github.com/Justin-Conner&style=flat-square)  
 
 
 ![](https://komarev.com/ghpvc/?username=Justin-Conner&style=flat-square&label=PROFILE+PEEPERS )
 
-**Justin-Conner/Justin-Conner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on hosting my website on an apache server
 - 🌱 I’m currently learning about the DOM @launchcode
