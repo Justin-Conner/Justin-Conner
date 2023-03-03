@@ -8,7 +8,8 @@ www.apachesandbox.com
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)  -->
 
-![](username=Justin-Conner&color=brightgreen&style=flat-square&label=PROFILE+PEEPERS )
+
+![](https://komarev.com/ghpvc/?username=Justin-Conner&style=flat-square&label=PROFILE+PEEPERS )
 
 **Justin-Conner/Justin-Conner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
