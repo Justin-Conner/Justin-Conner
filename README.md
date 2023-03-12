@@ -7,16 +7,22 @@ www.justinconnerportfolio.com
 
 ![](https://komarev.com/ghpvc/?username=Justin-Conner&style=flat-square&label=PROFILE+PEEPERS )
 
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Justin;I'm+a+student +at+LaunchCode;I'm+a+Full+Stack+Developer; Browse+my+profile+and+clone+something+cool!;To+the+moon!+🚀🌕
 
-- 🔭 I’m currently working on hosting my website on an apache server
-- 🌱 I’m currently learning about the DOM @launchcode
-- 👯 I’m looking to collaborate on anything I am able to I am a relatively new programmer but very curious.
-- 🤔 I’m looking for help with my website on an apache server. See "apachesandbox" link below for what I have done so far. 
-- 💬 Ask me about Aesop Rock. I won't shut up about it. Sorry not Sorry.
-- 📫 How to reach me: www.justinconnerportfolio.com has all my links. www.Apacheserver.com
+  <div align="center">
+    <br>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Justin-Conner&show_icons=true&theme=vue-dark&count_private=true&bg_color=40DEFF&hide_border=true"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-Conner&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=40DEFF&hide_border=true"/>
+  </div> 
+    
+  <br>
+  <br>
+  
+  <div style="display: inline_block">
 
-  **** Fun facts:****
 
 - [Facto Numero 1](https://drive.google.com/file/d/1-QsGtcfW0xEQgbXLZyRvL28q1nLPo816/view?usp=share_link)
   
