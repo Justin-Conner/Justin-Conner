@@ -7,8 +7,8 @@ www.justinconnerportfolio.com
 
 ![](https://komarev.com/ghpvc/?username=Justin-Conner&style=flat-square&label=PROFILE+PEEPERS )
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Justin+Conner;+Check+out+My+Repos !;I+am+a+student+at+LaunchCode;Always+learning+new+things+; Find+all+my+links+on+my +website)](https://git.io/typing-svg)
-- [Facto Numero 1](https://drive.google.com/file/d/1-QsGtcfW0xEQgbXLZyRvL28q1nLPo816/view?usp=share_link)
+
+- [Facto Numero 1](https://drive.google.com/file/d/1-QsGtcfW0xEQgbXLZyRvL28q1nLPo816/view?usp=share_link)]
   
 - [Facto Numero 2](https://drive.google.com/file/d/1lqvKfzPFUr9TOJXsbkr9tcdddfDBFxtY/view?usp=share_link)
   
