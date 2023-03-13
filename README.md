@@ -6,7 +6,9 @@ www.justinconnerportfolio.com
 
 
 ![](https://komarev.com/ghpvc/?username=Justin-Conner&style=flat-square&label=PROFILE+PEEPERS )
+
 <!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Justin+Conner;+Welcome+to+My+Profile!; I'm+a+student+at+LaunchCode+🚀;Always+learning+new+things+;I+love+art; Take+a+look+around+and+clone😁)](https://git.io/typing-svg)
 
 - [Facto Numero 1](https://drive.google.com/file/d/1-QsGtcfW0xEQgbXLZyRvL28q1nLPo816/view?usp=share_link)]
   
